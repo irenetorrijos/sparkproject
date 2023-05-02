@@ -1,0 +1,21 @@
+title,polarity,subjectivity,prediction
+Aerosmith: US rock band announce farewell tour - BBC,0.25,0.5,2
+DeSantis Disney oversight board votes to sue company over tax-district fight - CNBC,0.0,0.25,1
+Google Pixel Fold with UWB arrives at FCC - 9to5Google,0.05,0.2,1
+E. Jean Carroll resumes testimony in Trump rape trial after mistrial denied - Reuters,0.13636363636363635,0.45454545454545453,2
+American Airlines pilots authorize strike amid contract talks - KERA News,0.16666666666666666,0.3333333333333333,2
+ESPN apologizes for Twin Towers stock footage during Heat-Knicks game - USA TODAY,-0.11060606060606061,0.3146464646464647,1
+NYPD asks people to put Apple AirTags in their cars to help find stolen vehicles - CNBC,-0.05681818181818182,0.42727272727272725,1
+Lordstown Motors warns of bankruptcy after Foxconn threatens to walk away from crucial funding deal - CNBC,0.0,1.0,0
+"Supreme Court to hear major case on limiting the power of federal government, a long-term goal of legal conservatives - CNN",0.11750000000000001,0.395,2
+Report: Israel got intel on Iran’s secret nuclear weapons program from executed spy - The Times of Israel,-0.2,0.35,1
+2023 NFL Draft third-round grades: Steelers earn 'A-' for Darnell Washington; Eagles hit and miss - CBS Sports,0.033333333333333326,0.562962962962963,2
+"Pope speaks of secret peace 'mission,' help for Ukraine kids - The Associated Press",-0.18333333333333335,0.7166666666666667,0
+"Webb Finds Water Vapor, But From a Rocky Planet or Its Star? - NASA",0.0,0.0,1
+Hollywood braces for writers' strike that could shut down production on most TV shows - CNN,0.16984126984126985,0.3063492063492064,2
+Massive manhunt underway for gunman accused of killing 5 neighbors - CNN,0.4,0.54,2
+'White House Plumbers' wrings satire from the oddball characters behind Watergate - CNN,0.0378968253968254,0.2853174603174603,1
+"After the iPad, this is the next best tablet. But… - KTLA Los Angeles",0.40624999999999994,0.5166666666666666,2
+"Gold, silver climb as JPMorgan wins auction for First Republic business - MarketWatch",0.1375,0.30833333333333335,2
+"UN holds crucial Afghanistan talks in Qatar, without Taliban - Al Jazeera English",0.0,0.3333333333333333,1
+First Republic becomes second-largest bank failure in US history - CNN,-0.033333333333333354,0.31666666666666665,1
