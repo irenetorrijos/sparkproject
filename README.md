@@ -1,4 +1,4 @@
-# Spark Project
+# Sentiment Analysis and Clustering: Spark Streaming
 
 ## Overview
 
