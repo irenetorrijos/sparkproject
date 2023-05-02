@@ -8,3 +8,5 @@ The aim of this project is to tackle the challenge of real-time analysis of data
 - Ragi Bhatt
 - Haolin Chen
 - Irene Torrijos Robles
+
+## Project structure
