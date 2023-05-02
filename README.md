@@ -44,4 +44,7 @@ Then you just run the task in one terminal:
 ## Methodology flow
 ![diagram-analysis](https://user-images.githubusercontent.com/37112474/235746437-61c83971-5fba-4f5d-b6a9-f5f4c0c08abe.png)
 
+## Results
+In addition to the obtained results, Spark Streaming and TextBlob work together to create a solid framework for real-time sentiment analysis of news data that has the potential to offer insightful analysis of evolving public sentiment patterns.
 
+However, the clustered articles can not be considered as good clusters because the features used for clustering might not be enough. In addition to that ambiguous titles of news can heighten different emotions which are subjective to the user when exposed to the content.
